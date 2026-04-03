@@ -122,7 +122,8 @@ Behaviour:
   - a summary of whether anomalies were detected for this event (including confidence and the `detected_at` timestamp)
 - The view refreshes approximately **once per second**.
 
-> **Placeholder for Screenshot 1**  
+<img width="1920" height="1080" alt="Screenshot - System" src="https://github.com/user-attachments/assets/712fcef1-e530-4af2-a7ba-c6f9c882822f" />
+
 
 ### 4.2. Human Sensor view (Handling & Solving)
 
@@ -169,7 +170,8 @@ When a solution is applied:
 - the issue is marked as handled (persisted in `handled_issues.json`),
 - a **decision record** (including confidence before/after, free-text explanation, role) is appended to `validated_logs/decisions_log.json`.
 
-> **Placeholder for Screenshot 2**  
+<img width="1920" height="1080" alt="Screenshot - Human Sensor" src="https://github.com/user-attachments/assets/2a9d2e23-9add-416d-b168-27e0f50942cf" />
+
 
 ### 4.3. Knowledge Augmentator view (Knowledge management)
 
@@ -191,7 +193,8 @@ The view offers:
    - Read-only table of edges between error types and solution patterns.
    - Helps to quickly see which patterns belong to which error types.
 
-> **Placeholder for Screenshot 3**  
+<img width="1920" height="1080" alt="Screenshot - Knowledge Augmentator" src="https://github.com/user-attachments/assets/f4a0d87a-e23e-43b7-b6ad-b47c1c24f792" />
+
 
 ---
 
