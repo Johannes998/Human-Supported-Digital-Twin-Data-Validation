@@ -1,0 +1,23 @@
+{
+  "/dm/cylindrical_drill": "process",
+  "/dm/drill": "bore",
+  "/dm/lower": "prepare",
+  "/hbw/get_empty_bucket": "prepare",
+  "/hbw/store": "process",
+  "/hbw/store_empty_bucket": "inspect",
+  "/hbw/unload": "transport",
+  "/hw/human_review": "inspect",
+  "/mm/deburr": "prepare",
+  "/mm/drill": "bore",
+  "/mm/mill": "shape",
+  "/mm/transport_from_to": "transport",
+  "/ov/burn": "shape",
+  "/ov/temper": "inspect",
+  "/pm/punch_gill": "shape",
+  "/pm/punch_recesses": "process",
+  "/pm/punch_ribbing": "prepare",
+  "/sm/sort": "prepare",
+  "/sm/transport": "transport",
+  "/vgr/pick_up_and_transport": "transport",
+  "/wt/pick_up_and_transport": "transport"
+}

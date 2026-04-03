@@ -1,0 +1,18 @@
+{
+  "error_types": [
+    {
+      "id": "ET_INCONSISTENT_TERMINOLOGY",
+      "description": "Inconsistent terminology"
+    },
+    {
+      "id": "ET_IMPRECISE_TERMINOLOGY",
+      "description": "Imprecise terminology"
+    },
+    {
+      "id": "ET_DUPLICATED_EVENT",
+      "description": "Duplicated event"
+    }
+  ],
+  "solution_patterns": [],
+  "edges": []
+}
