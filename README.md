@@ -51,7 +51,9 @@ Prototype/
 │  ├─ errornous_MainProcess.xes   # Log with injected anomalies
 │  └─ corrected_MainProcess.xes   # System/human-corrected log
 ├─ json_files/
+│  ├─ ambiguous_events.json   # System ruels to manulate ambigous data errors
 │  ├─ knowledge_base.json   # Knowledge base (error types & solution patterns)
+│  ├─ synonym_events.json   # System ruels to manipulate synonym data errors
 │  ├─ anomalies_queue.json  # Backlog of detected anomalies
 │  ├─ handled_issues.json   # Issues resolved by Human Sensors incl. timestamps
 │  └─ simulation_state.json # Progress of event simulation
